@@ -1,3 +1,3 @@
 # LeetCode
 
-My accepted LeetCode solutions, synced automatically every 2 days with [leetcode-sync](https://github.com/marketplace/actions/leetcode-sync).
+My accepted LeetCode solutions, synced automatically every day with [leetcode-sync](https://github.com/marketplace/actions/leetcode-sync).
